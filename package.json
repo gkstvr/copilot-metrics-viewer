@@ -21,7 +21,7 @@
     "chart.js": "^4.4.7",
     "eslint": "^9.17.0",
     "nuxt": "^3.15.3",
-    "nuxt-auth-utils": "^0.5.7",
+    "nuxt-auth-utils": "latest",
     "roboto-fontface": "^0.10.0",
     "undici": "^7.3.0",
     "vue": "latest",
